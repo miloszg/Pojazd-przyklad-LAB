@@ -1,0 +1,6 @@
+c:\users\kdr\documents\visual studio 2015\Projects\Pojazdy\Pojazdy\bin\Debug\Pojazdy.exe.config
+C:\Users\KDR\Documents\Visual Studio 2015\Projects\Pojazdy\Pojazdy\bin\Debug\Pojazdy.exe
+C:\Users\KDR\Documents\Visual Studio 2015\Projects\Pojazdy\Pojazdy\bin\Debug\Pojazdy.pdb
+C:\Users\KDR\Documents\Visual Studio 2015\Projects\Pojazdy\Pojazdy\obj\Debug\Pojazdy.csprojResolveAssemblyReference.cache
+C:\Users\KDR\Documents\Visual Studio 2015\Projects\Pojazdy\Pojazdy\obj\Debug\Pojazdy.exe
+C:\Users\KDR\Documents\Visual Studio 2015\Projects\Pojazdy\Pojazdy\obj\Debug\Pojazdy.pdb
